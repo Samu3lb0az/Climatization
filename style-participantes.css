@@ -45,8 +45,11 @@ img{
 .member {
     margin: 20px;
     text-align: center;
+    padding: 50px;
 }
 .member img {
+    
+
     width: 200px;
     height: 200px;
     border-radius: 50%;
