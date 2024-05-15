@@ -40,3 +40,22 @@ a {
 img{
     width: 110px;
 }
+#mudanca{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    padding-top: 7px;
+    margin-left: 42%;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
